@@ -1,5 +1,5 @@
 <settings>
-   <servers>
+  <servers>
   <server>
     <id>nextwork-nextwork-devops-cicd</id>
     <username>aws</username>
@@ -7,7 +7,7 @@
   </server>
 </servers>
 
-    <profiles>
+  <profiles>
   <profile>
     <id>nextwork-nextwork-devops-cicd</id>
     <activation>
@@ -22,7 +22,7 @@
   </profile>
 </profiles>
 
-    <mirrors>
+<mirrors>
   <mirror>
     <id>nextwork-nextwork-devops-cicd</id>
     <name>nextwork-nextwork-devops-cicd</name>
